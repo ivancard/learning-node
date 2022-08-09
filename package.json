@@ -11,5 +11,11 @@
     "learn"
   ],
   "author": "Ivan Cardenas",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "color": "^4.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
